@@ -1,4 +1,4 @@
-# This code is for reproducibility of NeurIPS2020 submission "Differentiable Neural Architecture Search in Equivalent Space with Exploration Enhancement", the searched best models on CNN with common DARTS search space.
+# The best searched models on CNN with common DARTS search space.
 
 
 ## Requirements
